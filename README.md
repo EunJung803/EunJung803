@@ -5,7 +5,6 @@ Welcome to my Github Profile.
 - 👩🏻‍💻 I am studying at Hanyang University ERICA as a major in below.
     - Media Technology, Division of ICT, College of Computing
     - Major in Computer, Division of Software, College of Computing
-- 🌱 I’m currently learning Backend in LIKELION.
 
 ### 🤓 Tech stack / Frameworks
 
